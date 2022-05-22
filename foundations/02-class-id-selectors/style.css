@@ -1,0 +1,16 @@
+.odd-paragraph {
+    background-color:rgb(245, 161, 161);
+    font-family: verdana,'dejaju sans', sans-serif;
+}
+.cooler-paragraph {
+    font-size: 24px;
+}
+#even-div-two {
+    color: #1613af;
+    font-size: 36px;
+}
+#even-div-four {
+    background-color: hsl(85,75%,50%);
+    font-size: 24px;
+    font-weight: bold;
+}
